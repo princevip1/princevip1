@@ -11,7 +11,7 @@ I'm a passionate full-stack developer with a love for creating innovative web ap
 - **State Management**: Redux, Context API
 
 ### Back-end:
-- **Languages**: JavaScript (Node.js), Python, Php
+- **Languages**: JavaScript/TypeScript (Node.js), Python, Php
 - **Frameworks/Platforms**: Express.js, Django, Laravel
 - **Databases**: MongoDB, PostgreSQL, MySQL, Firebase
 - **APIs**: RESTful APIs,
